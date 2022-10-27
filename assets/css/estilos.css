@@ -97,7 +97,7 @@ body {
     flex-direction: column;
     background-color: #15191C;
     width: 75vw;
-    height: 100vh;
+    height: 260vh;
 
     position: absolute;
     left: -100vw;
@@ -107,6 +107,7 @@ body {
 .menu-lateral--ativo {
     left: 0;
     transition: .25s;
+    height: 550vh;
 }
 
 .menu-lateral__logo {
